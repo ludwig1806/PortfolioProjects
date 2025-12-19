@@ -203,8 +203,7 @@ SELECT Genre,
 FROM vgsales_stagging2
 WHERE Genre IS NOT NULL
 GROUP BY Genre
-ORDER BY persentase DESC
-LIMIT 5;
+ORDER BY persentase DESC;
 
 -- Top Publisher
 SELECT Publisher,
@@ -214,7 +213,7 @@ FROM vgsales_stagging2
 WHERE Publisher IS NOT NULL
 GROUP BY Publisher
 ORDER BY persentase DESC
-LIMIT 5;
+LIMIT 10;
 
 -- Top Games per Region
 SELECT `Name`,Platform, NA_Sales
