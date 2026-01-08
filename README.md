@@ -1,4 +1,4 @@
-<img width="93" height="21" alt="image" src="https://github.com/user-attachments/assets/f8577da2-1d0e-440a-895f-486113c17fe7" /># Video Game Sales Analysis
+# Video Game Sales Analysis
 
 ## Project Overview
 This project analyzes historical video game sales data to identify market trends, regional preferences, and key performance drivers across the global gaming industry.
